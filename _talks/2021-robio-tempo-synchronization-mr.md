@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2021-robio-tempo-synchronization-mr
 venue: "2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)"
-date: 2021-01-01
+date: 2021-12-06
 location: "Sanya, China"
 authors: "S. Chinchilla, J. Salazar, Y. Hirata"
 ---

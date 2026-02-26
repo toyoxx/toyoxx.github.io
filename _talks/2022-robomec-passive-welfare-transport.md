@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2022-robomec-passive-welfare-transport
 venue: "The Proceedings of JSME Annual Conference on Robotics and Mechatronics (ROBOMEC)"
-date: 2022-01-01
+date: 2022-06-01
 location: "Sapporo, Japan"
 authors: "Z. Dong, J.V. Salazar Luces, A.A. Ravankar, S.A. Tafrishi, Y. Hirata"
 ---

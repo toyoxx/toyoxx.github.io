@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2023-robomec-semantic-priors-object-search
 venue: "The Proceedings of JSME annual Conference on Robotics and Mechatronics (ROBOMEC)"
-date: 2023-01-01
+date: 2023-06-28
 location: "Nagoya, Japan"
 authors: "A. Chikhalikar, A.A. Ravankar, J.V.S. Luces, Y. Hirata"
 ---

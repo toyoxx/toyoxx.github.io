@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2022-icra-immersive-virtual-walking-avatar
 venue: "2022 IEEE International Conference on Robotics and Automation (ICRA)"
-date: 2022-01-01
+date: 2022-05-23
 location: "Philadelphia, PA, USA"
 authors: "K. Promsutipong, J.V.S. Luces, A.A. Ravankar, S.A. Tafrishi, Y. Hirata"
 ---

@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2022-isrr-assistive-robots-nursing-care
 venue: "The International Symposium of Robotics Research (ISRR)"
-date: 2022-01-01
+date: 2022-09-25
 location: "Geneva, Switzerland"
 authors: "Y. Hirata, J.V.S. Luces, A.A. Ravankar, S.A. Tafrishi"
 ---

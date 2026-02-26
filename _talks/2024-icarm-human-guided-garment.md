@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2024-icarm-human-guided-garment
 venue: "2024 International Conference on Advanced Robotics and Mechatronics (ICARM)"
-date: 2024-01-01
+date: 2024-12-18
 location: "Tokyo, Japan"
 authors: "D. Chen, Z. Liao, A.E. Petrilli-Barceló, J.V.S. Luces, Y. Hirata"
 ---

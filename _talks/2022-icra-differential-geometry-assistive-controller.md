@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2022-icra-differential-geometry-assistive-controller
 venue: "2022 IEEE International Conference on Robotics and Automation (ICRA)"
-date: 2022-01-01
+date: 2022-05-23
 location: "Philadelphia, PA, USA"
 authors: "S.A. Tafrishi, A.A. Ravankar, J.V.S. Luces, Y. Hirata"
 ---

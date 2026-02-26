@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2021-iros-running-outdoors-haptics
 venue: "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
-date: 2021-01-01
+date: 2021-09-27
 location: "Prague, Czech Republic"
 authors: "Z. Liao, J. Salazar, Y. Hirata"
 ---

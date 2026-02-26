@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2023-robio-underactuated-hand-production
 venue: "2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)"
-date: 2023-01-01
+date: 2023-12-05
 location: "Koh Samui, Thailand"
 authors: "X. Chen, J.V.S. Luces, A.E.P. Barceló, Y. Hirata"
 ---

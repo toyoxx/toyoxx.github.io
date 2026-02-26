@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2024-robio-adaptive-sim-cloth
 venue: "2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)"
-date: 2024-01-01
+date: 2024-12-04
 location: "Bangkok, Thailand"
 authors: "Y. Zhang, D. Chen, A.E.P. Barceló, J.V.S. Luces, Y. Hirata"
 ---

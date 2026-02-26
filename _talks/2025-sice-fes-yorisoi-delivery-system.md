@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2025-sice-fes-yorisoi-delivery-system
 venue: "2025 SICE Festival with Annual Conference (SICE FES)"
-date: 2025-01-01
+date: 2025-09-09
 location: "Chiang Mai, Thailand"
 authors: "S. Murase, R. Manriquez-Cisterna, A.A. Ravankar, J.V.S. Luces, Y. Hirata"
 ---

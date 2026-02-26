@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2022-robomec-precision-agri-navigation-sim
 venue: "The Proceedings of JSME annual Conference on Robotics and Mechatronics (ROBOMEC)"
-date: 2022-01-01
+date: 2022-06-01
 location: "Sapporo, Japan"
 authors: "A.A. Ravankar, A. Ravankar, J.V.S. Luces, S.A. Tafrishi, Y. Hirata"
 ---

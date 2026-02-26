@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2024-neurorehab-rollator-bws
 venue: "International Conference on NeuroRehabilitation"
-date: 2024-01-01
+date: 2024-11-05
 location: "La Granja, Spain"
 authors: "Z. Dong, J.V.S. Luces, A.A. Ravankar, Z. Liao, Y. Hirata"
 ---

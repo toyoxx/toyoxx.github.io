@@ -14,11 +14,13 @@
 import glob
 import getorg
 from geopy import Nominatim
+from geopy.extra.rate_limiter import RateLimiter
 
 g = glob.glob("*.md")
 
 
 geocoder = Nominatim(user_agent="toyoxx.github.io")
+geocode = RateLimiter(geocoder.geocode, min_delay_seconds=1.2)
 location_dict = {}
 location = ""
 permalink = ""
@@ -33,15 +35,19 @@ for file in g:
             lines_trim = lines[loc_start:]
             loc_end = lines_trim.find('"')
             location = lines_trim[:loc_end]
-                            
-           
-        location_dict[location] = geocoder.geocode(location)
+        else:
+            location = ""
+
+        # Skip blank locations and avoid duplicate geocoding requests.
+        if not location or location in location_dict:
+            continue
+
+        location_dict[location] = geocode(location)
         print(location, "\n", location_dict[location])
 
 
 m = getorg.orgmap.create_map_obj()
 getorg.orgmap.output_html_cluster_map(location_dict, folder_name="../talkmap", hashed_usernames=False)
-
 
 
 

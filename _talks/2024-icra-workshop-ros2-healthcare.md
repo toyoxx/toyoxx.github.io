@@ -5,7 +5,7 @@ talk_type: "Workshop talk"
 type: "Workshop talk"
 permalink: /talks/2024-icra-workshop-ros2-healthcare
 venue: "Assistive Systems: Lab to Patient Care (ICRA 2024 Workshop)"
-date: 2024-01-01
+date: 2024-05-13
 location: "Yokohama, Japan"
 authors: "J. Peña-Queralta, R.J. Manríquez Cisterna, H. Hussein, O. Gnarra, et al."
 ---

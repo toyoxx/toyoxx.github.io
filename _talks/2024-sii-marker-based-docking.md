@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2024-sii-marker-based-docking
 venue: "2024 IEEE/SICE International Symposium on System Integration (SII)"
-date: 2024-01-01
+date: 2024-01-08
 location: "Ha Long, Vietnam"
 authors: "S. Chinchilla, T. Saito, R. Oikawa, T. Yamada, N. Toshiki, S. Yamane, J.V.S. Luces"
 ---

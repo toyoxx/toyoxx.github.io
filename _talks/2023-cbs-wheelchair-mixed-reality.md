@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2023-cbs-wheelchair-mixed-reality
 venue: "2022 IEEE International Conference on Cyborg and Bionic Systems (CBS)"
-date: 2023-01-01
+date: 2022-11-24
 location: "Wuhan, China"
 authors: "Z. Liao, J. Salazar, A. Ravankar, S. Chinchilla, E. Monacelli, Y. Hirata"
 ---

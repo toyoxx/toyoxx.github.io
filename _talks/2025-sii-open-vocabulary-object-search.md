@@ -5,7 +5,7 @@ talk_type: "Conference proceedings talk"
 type: "Conference proceedings talk"
 permalink: /talks/2025-sii-open-vocabulary-object-search
 venue: "2025 IEEE/SICE International Symposium on System Integration (SII)"
-date: 2025-01-01
+date: 2025-01-21
 location: "Munich, Germany"
 authors: "A. Chikhalikar, A.A. Ravankar, J.V.S. Luces, Y. Hirata"
 ---
