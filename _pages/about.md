@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ------
-![](/images/vancouver.jpeg)
+![](/images/MainPic.jpg)
 
 ------
 
@@ -22,6 +22,5 @@ His main research topic is in the area of Haptics, particularly using different 
 He is also involved in other research projects, such as the development of assistive robotic systems for welfare and garment manipulation using robotic systems. 
 
 He enjoys [photography](https://www.instagram.com/toyoenjapon/), playing videogames, and scuba diving. 
-
 
 
