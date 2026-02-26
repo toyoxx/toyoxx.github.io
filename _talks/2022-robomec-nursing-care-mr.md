@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2022-robomec-nursing-care-mr
 venue: "The Proceedings of JSME annual Conference on Robotics and Mechatronics (ROBOMEC)"
 date: 2022-01-01
-location: ""
+location: "Sapporo, Japan"
 authors: "G. Aoki, J.V.S. Luces, A.A. Ravankar, S.A. Tafrishi, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

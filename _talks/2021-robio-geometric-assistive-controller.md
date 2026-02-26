@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2021-robio-geometric-assistive-controller
 venue: "2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)"
 date: 2021-01-01
-location: ""
+location: "Sanya, China"
 authors: "S.A. Tafrishi, A.A. Ravankar, J.V.S. Luces, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

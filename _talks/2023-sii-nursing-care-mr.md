@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2023-sii-nursing-care-mr
 venue: "2023 IEEE/SICE International Symposium on System Integration (SII)"
 date: 2023-01-01
-location: ""
+location: "Atlanta, GA, USA"
 authors: "G. Aoki, J.V.S. Luces, S.A. Tafrishi, A.A. Ravankar, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

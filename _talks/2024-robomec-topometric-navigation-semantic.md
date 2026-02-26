@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2024-robomec-topometric-navigation-semantic
 venue: "The Proceedings of JSME annual Conference on Robotics and Mechatronics (ROBOMEC)"
 date: 2024-01-01
-location: ""
+location: "Utsunomiya, Japan"
 authors: "A.A. Ravankar, A. Ravankar, J.V.S. Luces, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

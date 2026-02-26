@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2021-rsj-tilting-tricycle-assistance
 venue: "Annual Conference of the Robotics Society of Japan"
 date: 2021-01-01
-location: ""
+location: "Ueda, Nagano, Japan"
 authors: "B. Yamamoto, J. Salazar, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

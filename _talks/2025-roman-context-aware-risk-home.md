@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2025-roman-context-aware-risk-home
 venue: "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
 date: 2025-01-01
-location: ""
+location: "Eindhoven, Netherlands"
 authors: "S. Ishii, A. Chikhalikar, A.A. Ravankar, J.V.S. Luces, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

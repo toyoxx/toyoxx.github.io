@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2024-case-adaptive-impedance-garment
 venue: "2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)"
 date: 2024-01-01
-location: ""
+location: "Bari, Italy"
 authors: "Y. Zhang, D. Chen, A.E.P. Barceló, J.V.S. Luces, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

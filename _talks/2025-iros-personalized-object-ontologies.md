@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2025-iros-personalized-object-ontologies
 venue: "2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 date: 2025-01-01
-location: ""
+location: "Hangzhou, China"
 authors: "A. Chikhalikar, A.A. Ravankar, J.V.S. Luces, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

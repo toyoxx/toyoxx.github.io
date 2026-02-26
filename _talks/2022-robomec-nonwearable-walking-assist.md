@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2022-robomec-nonwearable-walking-assist
 venue: "The Proceedings of JSME Annual Conference on Robotics and Mechatronics (ROBOMEC)"
 date: 2022-01-01
-location: ""
+location: "Sapporo, Japan"
 authors: "J. Terayama, S.A. Tafrishi, A.A. Ravankar, J.V.S. Luces, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

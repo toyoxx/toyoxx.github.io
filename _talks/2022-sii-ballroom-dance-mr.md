@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2022-sii-ballroom-dance-mr
 venue: "2022 IEEE/SICE International Symposium on System Integration (SII)"
 date: 2022-01-01
-location: ""
+location: "Narvik, Norway"
 authors: "S.F.C. Gutierrez, J.V.S. Luces, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

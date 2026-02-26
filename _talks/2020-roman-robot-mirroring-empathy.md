@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2020-roman-robot-mirroring-empathy
 venue: "2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
 date: 2020-01-01
-location: ""
+location: "Naples, Italy"
 authors: "M. Perusquía-Hernández, M.C. Balda, D.A.G. Jáuregui, D. Paez-Granados, et al."
 ---
 ### This presentation was based on a peer-reviewed paper

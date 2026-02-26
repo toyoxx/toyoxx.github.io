@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2022-iros-finger-camera-garment-hand
 venue: "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
 date: 2022-01-01
-location: ""
+location: "Kyoto, Japan"
 authors: "H. Kondo, J.V.S. Luces, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

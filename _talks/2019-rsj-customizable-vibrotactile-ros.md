@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2019-rsj-customizable-vibrotactile-ros
 venue: "37th Annual Conference of the Robotics Society of Japan"
 date: 2019-01-01
-location: ""
+location: "Tokyo, Japan"
 authors: "J. Salazar, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

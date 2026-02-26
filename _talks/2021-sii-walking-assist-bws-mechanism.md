@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2021-sii-walking-assist-bws-mechanism
 venue: "2021 IEEE/SICE International Symposium on System Integration (SII)"
 date: 2021-01-01
-location: ""
+location: "Iwaki, Japan"
 authors: "Z. Dong, J.V.S. Luces, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

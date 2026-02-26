@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2024-robio-llm-behavior-tree-garment
 venue: "2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)"
 date: 2024-01-01
-location: ""
+location: "Bangkok, Thailand"
 authors: "S.S. Ghidary, D. Chen, F. Mohammadi, A.E.P. Barceló, J.V.S. Luces, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

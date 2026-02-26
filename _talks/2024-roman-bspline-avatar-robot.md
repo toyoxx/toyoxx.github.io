@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2024-roman-bspline-avatar-robot
 venue: "2024 33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
 date: 2024-01-01
-location: ""
+location: "Pasadena, CA, USA"
 authors: "A. Miuccio, R. Manríquez-Cisterna, A.A. Ravankar, J.V.S. Luces, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2025-roman-standing-support-mobility-robot
 venue: "2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
 date: 2025-01-01
-location: ""
+location: "Eindhoven, Netherlands"
 authors: "R.J. Manríquez-Cisterna, A.A. Ravankar, J.V.S. Luces, T. Hatsukari, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

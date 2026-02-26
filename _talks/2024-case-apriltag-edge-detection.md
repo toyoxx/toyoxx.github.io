@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2024-case-apriltag-edge-detection
 venue: "2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)"
 date: 2024-01-01
-location: ""
+location: "Bari, Italy"
 authors: "K.T.T. Moyo, J.V.S. Luces, A.A. Ravankar, Y. Hirata, M. Shota"
 ---
 ### This presentation was based on a peer-reviewed paper

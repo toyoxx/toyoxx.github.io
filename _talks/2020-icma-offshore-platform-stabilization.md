@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2020-icma-offshore-platform-stabilization
 venue: "2020 IEEE International Conference on Mechatronics and Automation (ICMA)"
 date: 2020-01-01
-location: ""
+location: "Beijing, China"
 authors: "M.M. Azari, J.V.S. Luces, Y. Hirata"
 ---
 ### This presentation was based on a peer-reviewed paper

@@ -6,7 +6,7 @@ type: "Conference proceedings talk"
 permalink: /talks/2025-icorr-somnomat-care
 venue: "2025 International Conference on Rehabilitation Robotics (ICORR)"
 date: 2025-01-01
-location: ""
+location: "Chicago, IL, USA"
 authors: "R. Manríquez-Cisterna, O. Gnarra, A.A. Ravankar, A. Breuss, T. Yoshimi, et al."
 ---
 ### This presentation was based on a peer-reviewed paper
